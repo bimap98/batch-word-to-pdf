@@ -1,5 +1,4 @@
-<p align="center">
-<img src= "Screenshot/Screenshot_3.jpg">
+
 
 # Batch convert word to pdf
 
